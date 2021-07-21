@@ -20,7 +20,7 @@ The codes for `Model training and testing` in Materials and Methods of the paper
 
 - See `ANN_code.py`
 
-- You can see the sample tensorboard results of gridsearch with the accuracies and aurocs [here](https://tensorboard.dev/experiment/NirtopfjTyaYPCle9QqHgA/).  
+- You can see the tensorboard results of gridsearch with the accuracies and aurocs [here](https://tensorboard.dev/experiment/NirtopfjTyaYPCle9QqHgA/).  
   (this is the same result with `tensorboard --logdir=./logs/hparam_tuning_results` if you run the code with your own datasets)
 
 
