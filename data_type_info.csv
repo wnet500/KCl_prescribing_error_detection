@@ -1,0 +1,74 @@
+variable,type
+Age_DT,integer
+Sex,binary_categorical
+Ward_division,categorical
+Specialty,categorical
+KCl_history_1y,binary_categorical
+KCD_1,binary_categorical
+KCD_2,binary_categorical
+KCD_3,binary_categorical
+KCD_4,binary_categorical
+KCD_5,binary_categorical
+ALP,float
+ALT,float
+AST,float
+"Bilirubin, Total",float
+Creatinine,float
+Glucose,float
+Lactic Acid,float
+Mg,float
+"Platelet Count, Blood",float
+K,float
+PT(INR),float
+ANC (Absolute Neutrophil Count),float
+APTT,float
+Glucose (POCT)_n_24h,integer
+"WBC Count, Blood_n_24h",integer
+ANC (Absolute Neutrophil Count)_n_24h,integer
+"Hemoglobin, Blood_n_24h",integer
+"Platelet Count, Blood_n_24h",integer
+AST_n_24h,integer
+Na_n_24h,integer
+Potassium (K)_n_24h,integer
+ALT_n_24h,integer
+BUN_n_24h,integer
+Cl_n_24h,integer
+Creatinine_n_24h,integer
+Amylase_n_24h,integer
+GGT (Gamma-Glutamyl Transferase)_n_24h,integer
+ALP_n_24h,integer
+"CRP, Quantitative (High Sensitivity)_n_24h",integer
+Lipase_n_24h,integer
+Mg_n_24h,integer
+"Bilirubin, Total_n_24h",integer
+"Bilirubin, Direct_n_24h",integer
+"Glucose, Fasting_n_24h",integer
+PT(INR)_n_24h,integer
+APTT_n_24h,integer
+Hemoglobin A1c_n_24h,integer
+"Blood Culture, 1st_n_24h",integer
+Lactic Acid_n_24h,integer
+"Lactic Acid, Whole blood_n_24h",integer
+pH_n_24h,integer
+Glucose_n_24h,integer
+"Procalcitonin, quantitative_n_24h",integer
+cTnI (Troponin I)_n_24h,integer
+CK_n_24h,integer
+"BNP, POCT_n_24h",integer
+NT-proBNP(N-Terminal pro-Brain natriuretic Peptide_n_24h,integer
+"pH, venous_n_24h",integer
+SBP_1,categorical
+SBP_2,categorical
+S_Method_1,binary_categorical
+S_Method_2,binary_categorical
+DBP_1,categorical
+DBP_2,categorical
+D_Method_1,binary_categorical
+D_Method_2,binary_categorical
+PR_1,categorical
+PR_2,categorical
+RR_1,categorical
+RR_2,categorical
+BT_1,categorical
+BT_2,categorical
+Outcome,binary_categorical
